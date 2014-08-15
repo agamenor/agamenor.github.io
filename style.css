@@ -1,0 +1,41 @@
+.pdif{
+	color: rgba(255,255,255,0.9);
+	font: normal bold serif;
+}
+p{
+	color: rgba(255,255,255,0.9);
+	font: normal bold 1.3em serif;
+}
+h2{
+	color: rgba(220,203,240,1);
+	font:c normal bold 1em serif;
+}
+.tit{
+	color: rgba(255,255,255,1);
+	font: normal bold 3em serif;
+}
+body{
+	background-color: rgba(100, 150, 223, 0.7);
+	cursor: crosshair;
+}
+.bordtt{
+	border: 3mm solid #ccc;
+}
+.top{
+	font-family:verdana,arial,sans-serif;
+	font-size:10pt;
+	margin:10px;
+	background-color: rgba(70, 110, 190, 0.9);
+}
+.barrinha{
+	border-right: 2px solid rgba(130, 190, 255, 0.8);
+	top: 20px;
+	bottom: 20px;
+}
+footer {
+	font-family:verdana,arial,sans-serif;
+	font-size:10pt;
+	margin:10px;
+	background-color: rgba(100, 150, 223, 0.7);
+	color:white;
+	}
